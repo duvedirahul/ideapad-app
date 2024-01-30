@@ -1,0 +1,39 @@
+.note {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.note-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.note-body {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.delete-button,
+.update-button {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.delete-button {
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+.update-button {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.divider {
+    margin-top: 10px;
+}
